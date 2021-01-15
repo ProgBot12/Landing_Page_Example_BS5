@@ -23,8 +23,6 @@ body {
 .left-wave img {
   width: 100%;
   height: auto;
-  position: relative;
-  display: block;
 }
 
 .right-wave {
